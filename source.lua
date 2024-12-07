@@ -20,8 +20,8 @@ ADOLF.HitboxToggle = false
 
 UILIB = loadstring(game:HttpGet('https://raw.githubusercontent.com/topitbopit/dollarware/main/library.lua'))
 UIADOLF = UILIB({
-    rounding = false,
-    theme = 'blueberry',
+    rounding = true,
+    theme = 'watermelon',
     smoothDragging = true
 })
 UIADOLF.autoDisableToggles = true
